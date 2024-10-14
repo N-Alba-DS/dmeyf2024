@@ -1,0 +1,6 @@
+Instructivo para archivo "Replicabilidad Entrega Final Competencia 01.ipynb"
+
+
+01. En la variable df_train de la celda 6 del archivo ingresar el path al archivo "competencia_01.csv" contenido en la carpeta datasets del repositorio   
+02. En la variable entrega = df_resultado.to_csv(r"C:\Users\Admin\Desktop\replicabilidad_competencia_01\competencia_01_replicabilidad.csv", index=False)
+modificar con el path que estime conveniente para guardar el archivo csv que replicará el puntaje elegido como submit de Kaggle. 
