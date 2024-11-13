@@ -182,3 +182,7 @@ project/target
 .worksheet
 
 .vscode/settings.json
+
+
+# Ignorar todos los archivos .parquet
+*.parquet
