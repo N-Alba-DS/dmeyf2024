@@ -185,4 +185,4 @@ project/target
 
 
 # Ignorar todos los archivos .parquet
-*.parquet
+*.parquetdatasets/competencia_02_f_e_lags.parquet
