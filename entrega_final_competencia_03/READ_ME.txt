@@ -1,0 +1,1 @@
+Se utilizo el dataset competencia_03 crudo en los dos archivos modelo_3_final y modelo_3_final_prob utilizando modelo_3_voting_final para ensamble
